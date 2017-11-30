@@ -44,16 +44,16 @@ Since connections between nodes are valid only if peers have identical protocol 
 	
 	```
 	{
-  "config": {
-    "chainId": 1907,
-    "homesteadBlock": 0,
-    "eip155Block": 0,
-    "eip158Block": 0
-  },
-  "difficulty": "4000",
-  "gasLimit": "2100000",
-  "alloc": {}
-}
+          "config": {
+           "chainId": 1907,
+           "homesteadBlock": 0,
+           "eip155Block": 0,
+          "eip158Block": 0
+        },
+                 "difficulty": "4000",
+                 "gasLimit": "2100000",
+                "alloc": {}
+         }
 	```
 	
 	**Step 2: Make a data directory and set up an account to be used by this node.**
@@ -125,8 +125,7 @@ Since connections between nodes are valid only if peers have identical protocol 
 
 ### Reference
 
-[Setting-up-private-network-or-local-cluster
-](https://github.com/ethereum/go-ethereum/wiki/Setting-up-private-network-or-local-cluster)
+[Setting-up-private-network-or-local-cluster](https://github.com/ethereum/go-ethereum/wiki/Setting-up-private-network-or-local-cluster)
 
 [Private-network](https://github.com/ethereum/go-ethereum/wiki/Private-network)
 
