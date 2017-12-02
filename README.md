@@ -10,9 +10,9 @@ In this lab, you will be asked to setup an Ethereum local cluster of nodes on pr
 
 ### Setup Ethereum
 
-1. **Lab Machine**
-
-	Make sure you can get access to a HPC machine: `ssh 128.230.208.73`.  You can contact Dr. Tang (through his email: ytang100@syr.edu) for the username and password to access the machine.
+1. **Envrionment Setup**
+	- `VirtualBox`
+	- `Ubuntu 14.04.3 LTS`
 
 2. **Ethereum setup**
 
