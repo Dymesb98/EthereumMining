@@ -129,6 +129,12 @@ Since connections between nodes are valid only if peers have identical protocol 
 
 [Private-network](https://github.com/ethereum/go-ethereum/wiki/Private-network)
 
+[Establishing a connection](https://github.com/ethereum/go-ethereum/wiki/RLPx-Encryption)
+
+[Ethereum Wire Protocol](https://github.com/ethereum/wiki/wiki/Ethereum-Wire-Protocol)
+
+
+
 
 	
 	
